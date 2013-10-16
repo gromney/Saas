@@ -19,10 +19,10 @@ class Time
 	def at_beginning_of_year ; Time.now - Time.now ; end
 end
 
-puts Time.now.at_beginning_of_year + 1.day
-puts Time.now
-puts 5.minutes.ago
-puts 5.minutes - 4.minutes
-puts 3.hours.from_now
+#puts Time.now.at_beginning_of_year + 1.day
+#puts Time.now
+#puts 5.minutes.ago
+#puts 5.minutes - 4.minutes
+#puts 3.hours.from_now
 
-puts 1.minute.ago
+#puts 1.minute.ago
